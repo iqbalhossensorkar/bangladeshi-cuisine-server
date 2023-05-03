@@ -4,53 +4,376 @@
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg",
         "name": "A.T.M, Ahmed Hossain",
         "experience": "40",
-        "recipes": "5",
         "like": "5.4k",
-        "description": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010. In 2010 Ahmed joined with Ocean Paradise Hotel and Resort, Cox’s Bazar as pre-opening Executive Chef and Director Food and Beverage, on first August, and worked till February 2013.In 2013, Ahmed rejoined with Dhaka Regency Hotel and Resort, Dhaka, as Head of Food and Beverage Division, has been attempting to till date. Now Chef Ahmed is recognized as the top most popular chef in Bangladesh."
+        "description": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010. In 2010 Ahmed joined with Ocean Paradise Hotel and Resort, Cox’s Bazar as pre-opening Executive Chef and Director Food and Beverage, on first August, and worked till February 2013.In 2013, Ahmed rejoined with Dhaka Regency Hotel and Resort, Dhaka, as Head of Food and Beverage Division, has been attempting to till date. Now Chef Ahmed is recognized as the top most popular chef in Bangladesh.",
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "image_url": "https://www.licious.in/blog/wp-content/uploads/2021/01/Mangalorean-Pomfret-Fish-Curry.jpg",
+                "recipe_name": "Chittagong-style Fish Curry",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "2 lbs fish",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "1 tsp garam masala",
+                    "2 tbsp oil",
+                    "Salt to taste"
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "2",
+                "image_url": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x500.jpg",
+                "recipe_name": "Biryani",
+                "cooking_method": "Stovetop/Oven",
+                "ingredients": [
+                    "2 lbs chicken",
+                    "2 cups basmati rice",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "Salt to taste",
+                    "2 cups water"
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "3",
+                "image_url": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+                "recipe_name": "Shorshe Ilish",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "2 lbs hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chilies",
+                    "Salt to taste",
+                    "Water as needed"
+                ],
+                "rating": 4.9
+            }
+        ]
     },
     {
         "id": "2",
         "img": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/feature/images/rafique_3.jpg",
         "name": "Chef Fakruddin",
         "experience": "60",
-        "recipes": "4",
         "like": "31.9k",
-        "description": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.From Muslim Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh."
+        "description": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.From Muslim Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh.",
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "image_url": "https://i.pinimg.com/originals/14/1f/13/141f13101b843cecf25c505b4fd6b1ba.jpg",
+                "recipe_name": "Morog Polao",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "2 lbs chicken",
+                    "2 cups basmati rice",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "Salt to taste",
+                    "2 cups water",
+                    "1 cup yogurt"
+                ],
+                "rating": 4.6
+            },
+            {
+                "recipe_id": "2",
+                "image_url": "https://1.bp.blogspot.com/-pRZrnjS6oUY/UzFxmGT8n4I/AAAAAAAABNM/HOe9vp5Ttys/s3200/img_1294.jpg",
+                "recipe_name": "Dhaka-style Beef Curry",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "2 lbs beef",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "1 tsp coriander",
+                    "1 tsp garam masala",
+                    "2 tbsp oil",
+                    "Salt to taste"
+                ],
+                "rating": 4.4
+            },
+            {
+                "recipe_id": "3",
+                "image_url": "https://bongong.com/images/recipes/Chingri_Macher_Malai_Curry/pic13_1246871401_center.jpg",
+                "recipe_name": "Sorshe Bata Chingri",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 lb shrimp",
+                    "2 tbsp mustard paste",
+                    "2 green chilies",
+                    "2 tbsp oil",
+                    "Salt to taste",
+                    "Water as needed"
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "4",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mishti_Doi.jpg/800px-Mishti_Doi.jpg",
+                "recipe_name": "Mishti Doi",
+                "cooking_method": "Oven",
+                "ingredients": [
+                    "1 liter whole milk",
+                    "1 cup sugar",
+                    "1/4 cup yogurt",
+                    "1/4 tsp cardamom powder",
+                    "1/4 tsp saffron"
+                ],
+                "rating": 4.6
+            }
+        ]
     },
     {
         "id": "3",
         "img": "https://new-media.dhakatribune.com/en/uploads/2022/11/09/tomy-d4272514f649ee16d903d1f4dec47278.jpeg",
         "name": "Tommy Miah",
         "experience": "32",
-        "recipes": "3",
         "like": "2.7k",
-        "description": "Mohammad Ajman Miah, MBE FRSA, better known by his nick name Tommy Miah, is a Bangladeshi-born British chef, owner of the Raj Restaurant and founder of the International Indian Chef of the Year Competition. He is often recognised as the 'Curry King' in Britain.Born: March 28, 1959 (age 64 years), Moulvi Bazar District. Cooking style: Bengali cuisine. Education: Aston Manor School"
+        "description": "Mohammad Ajman Miah, MBE FRSA, better known by his nick name Tommy Miah, is a Bangladeshi-born British chef, owner of the Raj Restaurant and founder of the International Indian Chef of the Year Competition. He is often recognised as the 'Curry King' in Britain.Born: March 28, 1959 (age 64 years), Moulvi Bazar District. Cooking style: Bengali cuisine. Education: Aston Manor School",
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "image_url": "https://eisamay.com/photo/msid-87101909,imgsize-93824/pic.jpg",
+                "recipe_name": "Khichuri",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 cup basmati rice",
+                    "1 cup split yellow lentils",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "Salt to taste",
+                    "4 cups water"
+                ],
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "2",
+                "image_url": "https://i.ytimg.com/vi/R4B37Q5lhfw/maxresdefault.jpg",
+                "recipe_name": "Bhuna Khichuri",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 cup basmati rice",
+                    "1 cup split yellow lentils",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "Salt to taste",
+                    "4 cups water",
+                    "2 tbsp ghee"
+                ],
+                "rating": 4.3
+            },
+            {
+                "recipe_id": "3",
+                "image_url": "https://foodfusion.com/wp-content/uploads/2019/09/Chapli-kabab-Recipe-by-Food-fusion-5.jpg",
+                "recipe_name": "Chapli Kebab",
+                "cooking_method": "Grill",
+                "ingredients": [
+                    "2 lbs ground beef",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "1 tomato",
+                    "1 tsp turmeric",
+                    "1 tsp chili powder",
+                    "2 tbsp chopped green chilies"
+                ],
+                "rating": 4.9
+            }
+        ]
     },
     {
         "id": "4",
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
         "name": "Tony Khan",
         "experience": "27",
-        "recipes": "4",
         "like": "1.2k",
-        "description": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment."
+        "description": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment.",
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "image_url": "https://magazine.foodpanda.com.bd/wp-content/uploads/sites/20/2021/05/Kacchi-Bashmoti-for-5.jpg",
+                "recipe_name": "Kacchi Biriyani",
+                "cooking_method": "Stovetop/Oven",
+                "ingredients": [
+                    "1 kg lamb meat",
+                    "4 cups basmati rice",
+                    "2 cups yogurt",
+                    "2 tbsp ginger paste",
+                    "2 tbsp garlic paste",
+                    "1 cup oil",
+                    "2 cups warm milk",
+                    "1 cup clarified butter",
+                    "4 cups water"
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "2",
+                "image_url": "https://i.ytimg.com/vi/D9Cx2QqVz8U/maxresdefault.jpg",
+                "recipe_name": "Lau Chingri",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 lb shrimp",
+                    "1 bottle gourd (lau)",
+                    "1 onion",
+                    "2 green chilies",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "Salt to taste"
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "3",
+                "image_url": "https://www.whiskaffair.com/wp-content/uploads/2019/03/Shahi-Tukda-2-3.jpg",
+                "recipe_name": "Shahi Tukra",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "4 slices of bread",
+                    "1/2 cup condensed milk",
+                    "1/2 cup heavy cream",
+                    "1/2 cup sugar",
+                    "1/2 cup water",
+                    "2 tbsp rose water",
+                    "1/4 cup ghee"
+                ],
+                "rating": 4.6
+            }
+        ]
     },
     {
         "id": "5",
         "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
         "name": "Chef Asad Latif",
         "experience": "27",
-        "recipes": "5",
         "like": "2k",
-        "description": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+        "description": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies.",
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2022/10/24/ALOO_BHORTA_H_f.jpg.rend.hgtvcom.616.462.suffix/1666710960022.jpeg",
+                "recipe_name": "Bhorta",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 cup mashed potatoes",
+                    "1 onion",
+                    "2 green chilies",
+                    "2 tbsp chopped cilantro",
+                    "1 tbsp mustard oil",
+                    "Salt to taste"
+                ],
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "2",
+                "image_url": "https://i.ytimg.com/vi/R4B37Q5lhfw/maxresdefault.jpg",
+                "recipe_name": "Bhuna Khichuri with Beef",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 cup basmati rice",
+                    "1 cup split yellow lentils",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "2 tbsp ghee"
+                ],
+                "rating": 4.4
+            },
+            {
+                "recipe_id": "3",
+                "image_url": "https://rumkisgoldenspoon.com/wp-content/uploads/2022/01/Begun-bhaja.jpg",
+                "recipe_name": "Begun Bhaja",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 eggplant",
+                    "1 tsp turmeric",
+                    "1 tsp chili powder",
+                    "1 tsp cumin",
+                    "1 tsp coriander",
+                    "2 tbsp oil",
+                    "Salt to taste"
+                ],
+                "rating": 4.3
+            }
+        ]
     },
     {
         "id": "6",
         "img": "https://pbs.twimg.com/media/Fk1vyM2WQAI4Huy?format=jpg&name=medium",
         "name": "Shelly Nuruzzaman",
         "experience": "35",
-        "recipes": "3",
         "like": "13.7k",
-        "description": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh."
+        "description": "Shelly’s family moved to Britain in the 1960’s and with them they brought a genuine energy and aptitude for Bangladeshi cooking. Being encompassed by this, Shelly could ingest their abilities and overpowering eagerness for Bangladeshi nourishment. She was transfixed by the sight and aromas of the flavors put away in and around her mom’s kitchen. This, combined with her dad owning and running a Bangladeshi eatery in the 1970’s, gave her a profound comprehension of the varieties in Bangladeshi cooking. After some time Shelly figured out how to duplicate and ad lib on zest mixes and utilize cooking strategies embraced from her nation of origin, Britain. She is also known as popular name among the list of top 10 chefs in Bangladesh.",
+        "recipes": [
+            {
+                "recipe_id": "1",
+                "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Aloo_jhinga_posto.jpg/640px-Aloo_jhinga_posto.jpg",
+                "recipe_name": "Jhinga Malaikari",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "1 lb shrimp",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "1 inch ginger",
+                    "1 tomato",
+                    "1 tsp turmeric",
+                    "Salt to taste"
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "2",
+                "image_url": "https://i.ndtvimg.com/i/2018-04/aloo-gobhi_650x400_51523431099.jpg",
+                "recipe_name": "Aloo Gobi",
+                "cooking_method": "Stovetop",
+                "ingredients": [
+                    "2 potatoes",
+                    "1 cauliflower",
+                    "1 onion",
+                    "2 cloves garlic",
+                    "Salt to taste"
+                ],
+                "rating": 4.1
+            },
+            {
+                "recipe_id": "3",
+                "image_url": "https://magazine.foodpanda.com.bd/wp-content/uploads/sites/20/2021/05/Kacchi-Bashmoti-for-5.jpg",
+                "recipe_name": "Kacchi Biryani",
+                "cooking_method": "Oven",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "2 lbs goat meat",
+                    "1/2 cup yogurt",
+                    "1/2 cup ghee",
+                    "2 tbsp oil",
+                    "1 onion",
+                    "4 cloves garlic",
+                    "Salt to taste"
+                ],
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "4",
+                "image_url": "https://i.pinimg.com/736x/eb/43/cb/eb43cb8cee8474b0ff22a7562943e566.jpg",
+                "recipe_name": "Bhapa Pitha",
+                "cooking_method": "Steamer",
+                "ingredients": [
+                    "2 cups rice flour",
+                    "1 cup grated coconut",
+                    "1 cup milk",
+                    "1/2 cup sugar",
+                    "1/4 cup raisins",
+                    "1/4 cup chopped almonds",
+                    "1/4 cup chopped pistachios",
+                    "1/4 cup chopped cashews",
+                    "1 tsp cardamom powder",
+                    "1/4 tsp baking powder"
+                ],
+                "rating": 4.8
+            }
+        ]
     }
 ]

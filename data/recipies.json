@@ -272,48 +272,48 @@
         "recipe_name": "Kacchi Biryani",
         "cooking_method": "Oven",
         "ingredients": [
-          "2 cups basmati rice",
-          "2 lbs goat meat",
-          "1/2 cup yogurt",
-          "1/2 cup ghee",
-          "2 tbsp oil",
-          "1 onion",
-          "4 cloves garlic",
-          "Salt to taste"
+            "2 cups basmati rice",
+            "2 lbs goat meat",
+            "1/2 cup yogurt",
+            "1/2 cup ghee",
+            "2 tbsp oil",
+            "1 onion",
+            "4 cloves garlic",
+            "Salt to taste"
         ],
         "rating": 4.9
-      },
-      {
+    },
+    {
         "recipe_id": "1",
         "image_url": "https://i.pinimg.com/736x/eb/43/cb/eb43cb8cee8474b0ff22a7562943e566.jpg",
         "recipe_name": "Bhapa Pitha",
         "cooking_method": "Steamer",
         "ingredients": [
-          "2 cups rice flour",
-          "1 cup grated coconut",
-          "1 cup milk",
-          "1/2 cup sugar",
-          "1/4 cup raisins",
-          "1/4 cup chopped almonds",
-          "1/4 cup chopped pistachios",
-          "1/4 cup chopped cashews",
-          "1 tsp cardamom powder",
-          "1/4 tsp baking powder"
+            "2 cups rice flour",
+            "1 cup grated coconut",
+            "1 cup milk",
+            "1/2 cup sugar",
+            "1/4 cup raisins",
+            "1/4 cup chopped almonds",
+            "1/4 cup chopped pistachios",
+            "1/4 cup chopped cashews",
+            "1 tsp cardamom powder",
+            "1/4 tsp baking powder"
         ],
         "rating": 4.8
-      },
-      {
+    },
+    {
         "recipe_id": "4",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mishti_Doi.jpg/800px-Mishti_Doi.jpg",
         "recipe_name": "Mishti Doi",
         "cooking_method": "Oven",
         "ingredients": [
-          "1 liter whole milk",
-          "1 cup sugar",
-          "1/4 cup yogurt",
-          "1/4 tsp cardamom powder",
-          "1/4 tsp saffron"
+            "1 liter whole milk",
+            "1 cup sugar",
+            "1/4 cup yogurt",
+            "1/4 tsp cardamom powder",
+            "1/4 tsp saffron"
         ],
         "rating": 4.6
-      }
-    ]
+    }
+]
